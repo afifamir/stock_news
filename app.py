@@ -83,7 +83,7 @@ def get_news(api_key, stock):
         return df
 
 
-api_key = 'c3dbf0fac1e64daa84c80b0b87828c6c'
+api_key = '#'
 
 
 
